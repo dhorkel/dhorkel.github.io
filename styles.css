@@ -1,3 +1,5 @@
+@import url('https://cdn.jsdelivr.net/npm/computer-modern@0.1.2/cmu-serif.css');
+
 /* Reset and Base Styles */
 * {
     margin: 0;
@@ -31,7 +33,7 @@ html {
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+    font-family: 'Computer Modern Serif', 'CMU Serif', 'Computer Modern', serif;
     line-height: 1.6;
     color: var(--text-dark);
     background-color: var(--bg-white);
